@@ -93,10 +93,11 @@ This project introduces an **innovative approach to cloud security** by utilizin
 - **User Authentication**: Only verified users can encrypt or decrypt files.  
 - **HTTPS Support**: Secure cloud-based storage.  
 
-![Screenshot 2025-03-07 152054](https://github.com/user-attachments/assets/2d88693e-f59a-461c-ac6b-610f77cfadda)
-![Screenshot 2025-03-07 152210](https://github.com/user-attachments/assets/48b3e45e-aa22-4535-81ad-45230da0080b)
-![Screenshot 2025-03-07 152222](https://github.com/user-attachments/assets/dc2ed3f3-8ab3-43e6-b6f1-fdf1662b7953)
-![Screenshot 2025-03-07 152231](https://github.com/user-attachments/assets/709c54b9-341b-4b7e-82d5-6e6203373faa)
-![Screenshot 2025-03-07 152246](https://github.com/user-attachments/assets/24afa84e-7c7d-4e84-aed2-9004094e0c14)
-![Screenshot 2025-03-07 152254](https://github.com/user-attachments/assets/c07f1252-eecc-4793-ab8c-936e82f793fb)
-![Screenshot 2025-03-07 152150](https://github.com/user-attachments/assets/c5fa856b-c6f9-4fdb-99ac-1c7f7c4fb037)
+
+![Screenshot 2025-03-07 152150](https://github.com/user-attachments/assets/267a11eb-2d48-4e67-a439-fcea950afa2c)
+![Screenshot 2025-03-07 152210](https://github.com/user-attachments/assets/291ed02d-44dd-4200-b036-13d2aae55f0d)
+![Screenshot 2025-03-07 152222](https://github.com/user-attachments/assets/2d58aeef-7b95-4834-877c-55fe9a79fd80)
+![Screenshot 2025-03-07 152231](https://github.com/user-attachments/assets/492127fa-f7c3-4844-a77d-0c1d570b2fba)
+![Screenshot 2025-03-07 152246](https://github.com/user-attachments/assets/ff2a535f-fe47-47e6-a6df-4e679f5047b7)
+![Screenshot 2025-03-07 152254](https://github.com/user-attachments/assets/7e6b80eb-0988-4e0f-b20e-364905b8b2b7)
+![Screenshot 2025-03-07 152054](https://github.com/user-attachments/assets/b99e8676-fe3e-4931-80b4-0e97a78f9f2b)
