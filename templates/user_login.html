@@ -1,14 +1,42 @@
 {% extends 'main.html' %}
 {% block title %}User Login{% endblock title %}
+
 {% block content %}
-<div class='container'>
-    <form class='form-group' method='POST'>
-        {% csrf_token %}
-        <label for='username'>Username:</label>
-        <input name='username' class="form-control" type='text' placeholder='Enter username here'/>
-        <label for='password'>Password</label>
-        <input name='password' type='password' class='form-control' placeholder='Enter password here'/>
-        <button type='submit' class="btn btn-primary form-control">Submit</button>
-    </form>
+<div class="d-flex justify-content-center align-items-center" style="min-height: 90vh;">
+    <div class="card shadow-lg p-4 rounded-4" style="max-width: 400px; width: 100%; border: none;">
+        <h3 class="text-center text-dark fw-bold mb-3">🔐 Login</h3>
+        
+        <form class="form-group" method="POST">
+            {% csrf_token %}
+            
+            <div class="mb-3">
+                <label for="username" class="form-label fw-semibold">Username</label>
+                <div class="input-group">
+                    <span class="input-group-text bg-light"><i class="fas fa-user"></i></span>
+                    <input name="username" class="form-control" type="text" placeholder="Enter your username" required/>
+                </div>
+            </div>
+            
+            <div class="mb-3">
+                <label for="password" class="form-label fw-semibold">Password</label>
+                <div class="input-group">
+                    <span class="input-group-text bg-light"><i class="fas fa-lock"></i></span>
+                    <input name="password" type="password" class="form-control" placeholder="Enter your password" required/>
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary w-100 mt-2">
+                <i class="fas fa-sign-in-alt"></i> Login
+            </button>
+        </form>
+        
+        <div class="text-center mt-3">
+            <small>Don't have an account? <a href="{% url 'user_register' %}" class="text-primary fw-semibold">Sign up</a></small>
+        </div>
+    </div>
 </div>
+
+<!-- FontAwesome for Icons -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/js/all.min.js"></script>
+
 {% endblock content %}
