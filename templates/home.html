@@ -1,6 +1,32 @@
 {% extends "main.html" %}
 {% block title %}Home{% endblock title %}
+
 {% block content %}
-<h1>Welcome To image crypter</h1><br/>
-<p>We dont use traditional key method instead of we will use noise image files as keys.</p>
+<div class="container text-center mt-5">
+    <h1 class="display-4 fw-bold text-primary">Welcome to Image Crypter</h1>
+    <p class="lead text-dark">Revolutionizing encryption with cutting-edge noise-based security.</p>
+
+    <div class="card shadow-lg p-4 border-0 rounded-4 mt-4" 
+        style="background: linear-gradient(135deg, #f8f9fa, #e3f2fd);">
+        <p class="fs-5 fw-semibold text-dark">
+            Say goodbye to traditional keys! Our **noise-based encryption** provides an **advanced security layer**, 
+            making unauthorized access virtually impossible.
+        </p>
+    </div>
+
+    <div class="d-flex justify-content-center gap-3 mt-4">
+        <div class="p-4 bg-light shadow rounded-3">
+            <h4 class="fw-bold text-primary">🔐 Secure</h4>
+            <p class="text-secondary">Your files are encrypted using an advanced noise-based method.</p>
+        </div>
+        <div class="p-4 bg-light shadow rounded-3">
+            <h4 class="fw-bold text-primary">⚡ Fast</h4>
+            <p class="text-secondary">Experience **lightning-fast encryption & decryption**.</p>
+        </div>
+        <div class="p-4 bg-light shadow rounded-3">
+            <h4 class="fw-bold text-primary">🛡️ Reliable</h4>
+            <p class="text-secondary">Our encryption ensures **data integrity & privacy**.</p>
+        </div>
+    </div>
+</div>
 {% endblock content %}
