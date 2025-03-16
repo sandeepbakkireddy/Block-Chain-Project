@@ -1,18 +1,28 @@
 {% extends "main.html" %}
-{% block title %}Decrypt your file{% endblock title %}
-{% block content %}
-    <div class="container">
-        <form method='POST' enctype='multipart/form-data' class="form-group">
-            {% csrf_token %}
-            <div class="input-group mb-3">
-                <label class="input-group-text" for='decryptlayer1'>Enter the image you were provided after encryption.</label>
-                <input class="form-control" type='FILE' placeholder='enter key here.' name='key_image'/><br/>
-            </div>
-            <button class="btn btn-primary form-control" type='submit'>Upload</button>
-        </form>
-    </div>
-    {% if file_path %}
-    <a class='btn btn-secondary form-control' href="{{file_path}}">Download decrypted file here</a>
-    {% endif %}
+{% block title %}Decrypt Your File{% endblock title %}
 
+{% block content %}
+<div class="container mt-5">
+    <div class="card shadow-lg p-4 border-0 rounded-4 mx-auto" style="max-width: 600px; background: linear-gradient(135deg, #e3f2fd, #ffffff);">
+        <h2 class="text-center text-primary fw-bold mb-4">🔓 Decrypt Your File</h2>
+        
+        <form method="POST" enctype="multipart/form-data" class="needs-validation" novalidate>
+            {% csrf_token %}
+            
+            <div class="mb-3">
+                <label for="key_image" class="form-label fw-semibold text-dark">Upload the encryption key image:</label>
+                <input type="file" class="form-control" name="key_image" required>
+                <div class="form-text text-muted">This image is required to unlock your file securely.</div>
+            </div>
+
+            <button type="submit" class="btn btn-primary w-100 shadow-sm">🔄 Decrypt File</button>
+        </form>
+
+        {% if file_path %}
+        <div class="mt-4 text-center">
+            <a class="btn btn-success w-100 shadow-sm" href="{{ file_path }}">⬇️ Download Decrypted File</a>
+        </div>
+        {% endif %}
+    </div>
+</div>
 {% endblock content %}
