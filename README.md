@@ -95,11 +95,18 @@ This project introduces an **innovative approach to cloud security** by utilizin
 
 
 ![Screenshot 2025-03-16 204735](https://github.com/user-attachments/assets/7450f913-a63d-42c8-bab9-05fa3daf1bb3)
+
 ![Screenshot 2025-03-16 204758](https://github.com/user-attachments/assets/308d5b78-6236-4ca5-a9b3-edbb78c9ec3b)
+
 ![Screenshot 2025-03-16 204820](https://github.com/user-attachments/assets/beda5b97-28bd-4c25-800b-a3dc0b65ada5)
+
 ![Screenshot 2025-03-16 205229](https://github.com/user-attachments/assets/8487c070-b3b8-466d-a23a-6de30aefd264)
+
 ![Screenshot 2025-03-16 205419](https://github.com/user-attachments/assets/1604d54d-48f2-48a5-9a9b-a7c73230e719)
+
 ![Screenshot 2025-03-16 205443](https://github.com/user-attachments/assets/9cc72b87-b02f-4b8a-8e79-aa19855f13e5)
+
 ![Screenshot 2025-03-16 205959](https://github.com/user-attachments/assets/62b6fabd-90d8-4b2a-bbef-87bf67bb10a4)
+
 ![Screenshot 2025-03-16 210100](https://github.com/user-attachments/assets/533920ae-84ba-464c-8e1d-77e4e89c2b0c)
 
