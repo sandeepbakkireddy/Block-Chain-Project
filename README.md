@@ -94,10 +94,14 @@ This project introduces an **innovative approach to cloud security** by utilizin
 - **HTTPS Support**: Secure cloud-based storage.  
 
 
-![Screenshot 2025-03-07 152150](https://github.com/user-attachments/assets/267a11eb-2d48-4e67-a439-fcea950afa2c)
-![Screenshot 2025-03-07 152210](https://github.com/user-attachments/assets/291ed02d-44dd-4200-b036-13d2aae55f0d)
-![Screenshot 2025-03-07 152222](https://github.com/user-attachments/assets/2d58aeef-7b95-4834-877c-55fe9a79fd80)
-![Screenshot 2025-03-07 152231](https://github.com/user-attachments/assets/492127fa-f7c3-4844-a77d-0c1d570b2fba)
-![Screenshot 2025-03-07 152246](https://github.com/user-attachments/assets/ff2a535f-fe47-47e6-a6df-4e679f5047b7)
-![Screenshot 2025-03-07 152254](https://github.com/user-attachments/assets/7e6b80eb-0988-4e0f-b20e-364905b8b2b7)
-![Screenshot 2025-03-07 152054](https://github.com/user-attachments/assets/b99e8676-fe3e-4931-80b4-0e97a78f9f2b)
+
+![Screenshot 2025-03-16 204758](https://github.com/user-attachments/assets/308d5b78-6236-4ca5-a9b3-edbb78c9ec3b)
+![Screenshot 2025-03-16 204820](https://github.com/user-attachments/assets/beda5b97-28bd-4c25-800b-a3dc0b65ada5)
+![Screenshot 2025-03-16 205229](https://github.com/user-attachments/assets/8487c070-b3b8-466d-a23a-6de30aefd264)
+![Screenshot 2025-03-16 205326](https://github.com/user-attachments/assets/523bbd29-8740-4c3c-ba61-7b65d19c0372)
+![Screenshot 2025-03-16 205339](https://github.com/user-attachments/assets/658c109c-7d5a-4bfc-9073-4bf6f14f8234)
+![Screenshot 2025-03-16 205419](https://github.com/user-attachments/assets/1604d54d-48f2-48a5-9a9b-a7c73230e719)
+![Screenshot 2025-03-16 205443](https://github.com/user-attachments/assets/9cc72b87-b02f-4b8a-8e79-aa19855f13e5)
+![Screenshot 2025-03-16 205959](https://github.com/user-attachments/assets/62b6fabd-90d8-4b2a-bbef-87bf67bb10a4)
+![Screenshot 2025-03-16 210100](https://github.com/user-attachments/assets/533920ae-84ba-464c-8e1d-77e4e89c2b0c)
+![Screenshot 2025-03-16 204735](https://github.com/user-attachments/assets/7450f913-a63d-42c8-bab9-05fa3daf1bb3)
